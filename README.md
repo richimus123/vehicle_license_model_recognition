@@ -13,3 +13,10 @@ Python based ML to locate license plates and make/model of vehicles from picture
 6) Validate that the license plate matches the vehicle's make/model.
 7) Auto-scan for infractions or hits and have an easy notification system.
 8) Auto-scan for make/model of near by issues when the license plate is unknown or partial.
+
+
+# First Steps:
+1) pytesseract to read strings from the images.
+2) Simple Django web app?
+3) Webcam integration to take the pictures/video?
+4) Use django to run the tasks/scans manually for now, and then automate it all later.
